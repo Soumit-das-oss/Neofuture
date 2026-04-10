@@ -2,11 +2,11 @@ import { Routes, Route } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
-import DashboardLayout from './components/DashboardLayout';
-import DashboardHome from './pages/DashboardHome';
-import AIEnginePage from './pages/AIEnginePage';
-import LogsPage from './pages/LogsPage';
-import AIAssistantPage from './pages/AIAssistantPage';
+import DashboardLayout from './components/DashboardLayoutNew';
+import DashboardHome from './pages/DashboardHomeNew';
+import AIEnginePage from './pages/AIEnginePageNew';
+import LogsPage from './pages/LogsPageNew';
+import AIAssistantPage from './pages/AIAssistantPageNew';
 
 function App() {
   return (
